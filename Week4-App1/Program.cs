@@ -11,7 +11,9 @@ namespace Week4_App1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-            Console.WriteLine("Workshop 4 edit");
+            Console.WriteLine("Noooooo!");
+            Console.WriteLine("Noooooo!");
+
 
             Console.ReadLine();
         }
