@@ -12,8 +12,11 @@ namespace Week4_App1
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Workshop 4 edit");
+            Console.WriteLine("some stuff");
+            Console.WriteLine("extra stuff to test connection");
 
             Console.ReadLine();
+           
         }
     }
 }
