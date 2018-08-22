@@ -14,6 +14,7 @@ namespace Week4_App1
             Console.WriteLine("Workshop 4 edit");
 
             Console.ReadLine();
+            Console.WriteLine("some stuff");
         }
     }
 }
