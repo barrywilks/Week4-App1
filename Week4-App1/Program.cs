@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Week4_App1
 {
     class Program
@@ -14,6 +15,12 @@ namespace Week4_App1
             Console.WriteLine("Workshop 4 edit");
 
             Console.ReadLine();
+
+
+            Console.WriteLine("Some Stuff");
         }
+
     }
 }
+
+
