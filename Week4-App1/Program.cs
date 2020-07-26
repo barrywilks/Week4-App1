@@ -12,6 +12,11 @@ namespace Week4_App1
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Workshop 4 edit");
+            Console.WriteLine("My name is Rajvinder Kaur");
+            Console.WriteLine("I am doing Master of IT");
+            Console.WriteLine("My student id is 23126086");
+
+
 
             Console.ReadLine();
         }
