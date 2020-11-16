@@ -14,6 +14,7 @@ namespace Week4_App1
             Console.WriteLine("Workshop 4 edit");
             Console.WriteLine("some stuff");
             Console.WriteLine("welcome to MSD");
+            Console.WriteLine("More code is updated here");
             Console.ReadLine();
         }
     }
